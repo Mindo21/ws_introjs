@@ -9,4 +9,4 @@ Hints:
 Explanation:
 * This is a very basic example of a javascript library (index.js) and a set of unit tests (assess.js) for checking the that the library is operating correctly.
 * Opening index.html in a browser causes the unit tests to be run.
-* By editing index.html all three tests can be made to pass.
+* By editing index.js all three tests can be made to pass.
